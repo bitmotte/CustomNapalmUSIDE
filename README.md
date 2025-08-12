@@ -1,2 +1,4 @@
 # CustomNapalmUSIDE
-Custom oil (napalm in the files) for the firestarter in ultrakill 
+Unity side of my custom napalm project
+
+see https://github.com/silliusgoober/CustomNapalm.git for plugin repo
